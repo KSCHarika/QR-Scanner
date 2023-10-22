@@ -2,7 +2,7 @@
 
 A web-based QR code scanner with a user-friendly interface.
 
-![QR Code Scanner](./images/qr_code_scanner.png)
+![QR Code Scanner](./assets/QrCodeScaner.png)
 
 ## Table of Contents
 
